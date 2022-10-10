@@ -14,6 +14,7 @@
         - `LogisticRegression.ipynb`: implements a logistic model 
         - `RandomForest.ipynb`: implements a random forest model
     - `.gitignore`
+    - `.gitattributes`
     - `requirements.txt`
 
 # Logistic Regression
