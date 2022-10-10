@@ -6,7 +6,7 @@
 # Repository Description
 - Folder data contains:
     - the original .csv file and the txt with details on the dataset
-    - the train and test files saved after the data preparation notebook is run
+    - the train and test files saved after the `data_prepatation.ipynb` is run
 
 - The main folder contains:
     - the following notebooks:
